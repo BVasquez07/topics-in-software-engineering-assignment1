@@ -1,16 +1,7 @@
-# Topics in Software Engineering
+# Name
+## unMask
 
-This is a template repository for the topics in software engineering class I teach at CCNY.
-It comes with a pre-configured devcontainer that includes most of the tools you'll need during this semester. 
-If you start with this repository as a template you will have a ready to go development environment that you'll be able to 
-share with your team mates. Additionally, a demo github action workflow has been setup to help you with your first assignment.
+# description of the problem that this application will solve
+### This application will tackle the increasing problem of fake news/media used to incite hate/violence among the populace. This is a very huge and increasing problem as generative AI allows for faster more realistic deep fakes both in terms of text and image creation. [See] (https://www.washingtonpost.com/technology/2023/12/17/ai-fake-news-misinformation/)
 
-# Tools
-The tools that are installed with this devcontainer are:
-
-* act which allows you to run GitHub Actions in the local development environment.
-* terraform which lets you automate infrastructure provisioning
-* aws cli for interacting with AWS environment.
-
-# For Students
-If you are a student in the class you can create a new repository using this template. Once you've created a repository of your own replace the content of this file with the description or you project idea.
+### The primary users of this application are media resources such as online forums, bloggers, online reviewers, news stations. This is because these outlets are prone to biased, skewed, and at times false data to insight a response among users in order to gain watch time.   
